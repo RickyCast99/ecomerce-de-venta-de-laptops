@@ -1,2 +1,2 @@
-# ecomerce-de-venta-de-laptops
+# ecomerce-de-laptops
 venta de laptops
